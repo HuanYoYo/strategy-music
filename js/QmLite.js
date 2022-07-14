@@ -24,8 +24,8 @@ pre.onclick = function(){
 next.onclick = function(){
 	nextsong();
 }
-const songs= ["Homesick","My Nonfiction","気分上々↑↑"];
-const singers= ["Anly (アンリ)","古川慎 (ふるかわ まこと) _ 小原好美 (こはら このみ)","EIKO"];
+const songs= ["堕","My Nonfiction","気分上々↑↑"];
+const singers= ["Zyboy忠宇","古川慎 (ふるかわ まこと) _ 小原好美 (こはら このみ)","EIKO"];
 
 let songIndex = 0;
 let singernameIndex = 0;
